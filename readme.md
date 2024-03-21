@@ -12,7 +12,11 @@
 
 # Languages and Tools:
 
-![image](https://github.com/amjad-salameh/txt/assets/162582017/3cacd4cc-2698-4762-aeb7-616e7e0ad404) ![image](https://github.com/amjad-salameh/txt/assets/162582017/6c60c928-42ba-4c0b-82c3-4fa5725a8a17)
+![image](https://github.com/amjad-salameh/txt/assets/162582017/3cacd4cc-2698-4762-aeb7-616e7e0ad404) ![image](https://github.com/amjad-salameh/txt/assets/162582017/6c60c928-42ba-4c0b-82c3-4fa5725a8a17)![image](https://github.com/amjad-salameh/txt/assets/162582017/92bce681-753e-4667-9875-ce40f59195d1)![image](https://github.com/amjad-salameh/txt/assets/162582017/dd7b2b9b-ee0b-473d-8f98-f5fb6e1aacd4)![image](https://github.com/amjad-salameh/txt/assets/162582017/20e248bd-72db-47f5-9183-abf742681688)![image](https://github.com/amjad-salameh/txt/assets/162582017/2f9ab336-eae9-4265-8972-b54cd0e02a4d)![image](https://github.com/amjad-salameh/txt/assets/162582017/22183767-bd02-465a-b406-7a1717810106)
+
+
+
+
 
 
 <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="100" height="100" viewBox="0 0 48 48">
