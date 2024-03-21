@@ -11,9 +11,9 @@
 - ### 📫 How to reach me: <amjadsalameh@gmail.com>
 
 # Languages and Tools:
-![image](https://github.com/amjad-salameh/txt/assets/162582017/a845f7c3-b1d8-4983-a54a-f3f6061935e7)
 
-![image](https://github.com/amjad-salameh/txt/assets/162582017/3cacd4cc-2698-4762-aeb7-616e7e0ad404)
+![image](https://github.com/amjad-salameh/txt/assets/162582017/3cacd4cc-2698-4762-aeb7-616e7e0ad404) ![image](https://github.com/amjad-salameh/txt/assets/162582017/6c60c928-42ba-4c0b-82c3-4fa5725a8a17)
+
 
 <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="100" height="100" viewBox="0 0 48 48">
 <path fill="#E65100" d="M41,5H7l3,34l14,4l14-4L41,5L41,5z"></path><path fill="#FF6D00" d="M24 8L24 39.9 35.2 36.7 37.7 8z"></path><path fill="#FFF" d="M24,25v-4h8.6l-0.7,11.5L24,35.1v-4.2l4.1-1.4l0.3-4.5H24z M32.9,17l0.3-4H24v4H32.9z"></path><path fill="#EEE" d="M24,30.9v4.2l-7.9-2.6L15.7,27h4l0.2,2.5L24,30.9z M19.1,17H24v-4h-9.1l0.7,12H24v-4h-4.6L19.1,17z"></path>
