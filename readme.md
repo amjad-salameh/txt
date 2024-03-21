@@ -11,6 +11,8 @@
 - ### 📫 How to reach me: <amjadsalameh@gmail.com>
 
 # Languages and Tools:
+![image](https://github.com/amjad-salameh/txt/assets/162582017/a845f7c3-b1d8-4983-a54a-f3f6061935e7)
+
 ![image](https://github.com/amjad-salameh/txt/assets/162582017/3cacd4cc-2698-4762-aeb7-616e7e0ad404)
 
 <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="100" height="100" viewBox="0 0 48 48">
