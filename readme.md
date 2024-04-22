@@ -8,7 +8,7 @@
 - Football⚽
 - Travel✈️
 
-- ### 📫 How to reach me: <amjadsalameh@gmail.com>
+- ### 📫 How to reach me: <amjadsalameh00@gmail.com>
 
 # Languages and Tools:
 
